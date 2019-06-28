@@ -1,0 +1,50 @@
+					"STUDENTS MARKSHEET"
+
+------------------------------------------------------
+ 	 	 	STUDENT NAME: SARFARAZ
+ Your Subjects and Numbers is: 
+ JAVA = 80
+ LINEAR ALGEBRA = 70
+ BASIC ELECTRONIC = 75
+ C LANGUAGE = 85
+ ENGLISH = 91
+ Total Number is: 401
+ Your Percentage is: 80.2
+ Your Grade is A+
+------------------------------------------------------
+------------------------------------------------------
+ 	 	 	STUDENT NAME: ALI
+ Your Subjects and Numbers is: 
+ JAVA = 83
+ LINEAR ALGEBRA = 79
+ BASIC ELECTRONIC = 79
+ C LANGUAGE = 84
+ ENGLISH = 90
+ Total Number is: 415
+ Your Percentage is: 83.0
+ Your Grade is A+
+------------------------------------------------------
+------------------------------------------------------
+ 	 	 	STUDENT NAME: ASAD
+ Your Subjects and Numbers is: 
+ JAVA = 68
+ LINEAR ALGEBRA = 62
+ BASIC ELECTRONIC = 58
+ C LANGUAGE = 56
+ ENGLISH = 74
+ Total Number is: 318
+ Your Percentage is: 63.6
+ Your Grade is B
+------------------------------------------------------
+------------------------------------------------------
+ 	 	 	STUDENT NAME: FAWAD
+ Your Subjects and Numbers is: 
+ JAVA = 60
+ LINEAR ALGEBRA = 75
+ BASIC ELECTRONIC = 85
+ C LANGUAGE = 65
+ ENGLISH = 71
+ Total Number is: 356
+ Your Percentage is: 71.2
+ Your Grade is A
+------------------------------------------------------
